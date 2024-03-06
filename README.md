@@ -6,7 +6,7 @@ As far as I know, I am the first and only person to have achieved such feats as 
 J/k, it's all pretty straight-forward when you break it down.
 Just do these steps:
 
-INSTRUCTIONS
+### INSTRUCTIONS ###
 
 This package contains instructions for eSpeak to read Xextan text, 
 and has also been prepared to optionally be used with the MBROLA synthesizer.
