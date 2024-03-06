@@ -15,7 +15,7 @@ FIRST: You'll need to have eSpeak and eSpeakedit installed.
 eSpeak is an open source software that can be acquired from:
 https://espeak.sourceforge.net/
 
-OPTIONALLY: If you would like slightly higher quality audio of a female speaker, you'll need to have MBROLA installed. 
+OPTIONALLY: If you would like higher quality audio output, you'll need to have MBROLA installed. 
 MBROLA is a formerly noncommercial freeware software that was released as open source in 2018.
 Unfortunately, there haven't been any official releases since then, so you'll either have to compile the source yourself, or use an old standalone (freeware) version.
 Source can be obtained here:
