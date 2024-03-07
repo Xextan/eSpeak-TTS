@@ -25,7 +25,7 @@ SECOND: All the data files must be copied into their proper folders.
 Each file should be copied into the folder of the same name in your eSpeak installation directory.
 
 THIRD: Now that all your software and data is in order, open eSpeakedit.
-From the top menu, select "Voice, Select voice...", then choose /test/xex.txt in the file selector.
+From the top menu, select "Voice, Select voice...", then choose /other/xex.txt in the file selector.
 From the top menu, select "Compile, Compile dictionary 'xex'"
 Now you may test the voice. Type any Xextan text in the textbox at the top left of the window.
 Press the "Translate" button. SAMPA format data should appear in the box below.
