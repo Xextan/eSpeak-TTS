@@ -34,7 +34,7 @@ All good? Congrats, it worked! Optionally, there are voice variant settings unde
 
 OPTIONALLY for MBROLA: Now that the eSpeak backend is primed, 
 Select "Compile, Compile mbrola phonemes list...". 
-Choose ptbrxex.txt. Now do the same for ptbr4 
+Choose ptbrxex.txt. Now do the same for ptbr4xex.txt.
 Now select "Voice, Select voice...", then choose /mb/mb-br4-xex.
 Now you can test the voice. Did it work? I hope so. 
 
