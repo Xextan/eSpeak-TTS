@@ -27,6 +27,7 @@ Each file should be copied into the folder of the same name in your eSpeak insta
 THIRD: Now that all your software and data is in order, open eSpeakedit.
 From the top menu, select "Voice, Select voice...", then choose /other/xex.txt in the file selector.
 From the top menu, select "Compile, Compile dictionary 'xex'"
+You'll also need to prepare the intonation patch. Select "Compile, Compile intonation data"
 Now you may test the voice. Type any Xextan text in the textbox at the top left of the window.
 Press the "Translate" button. SAMPA format data should appear in the box below.
 Now press the "Speak" button. You should hear the text being spoken by the eSpeak formant synth.
