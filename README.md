@@ -25,8 +25,9 @@ SECOND: All the data files must be copied into their proper folders.
 Each file should be copied into the folder of the same name in your eSpeak installation directory.
 
 THIRD: Now that all your software and data is in order, open eSpeakedit.
-From the top menu, select "Voice, Select voice...", then choose /test/xex.txt in the file selector.
+From the top menu, select "Voice, Select voice...", then choose /other/xex.txt in the file selector.
 From the top menu, select "Compile, Compile dictionary 'xex'"
+You'll also need to prepare the intonation patch. Select "Compile, Compile intonation data"
 Now you may test the voice. Type any Xextan text in the textbox at the top left of the window.
 Press the "Translate" button. SAMPA format data should appear in the box below.
 Now press the "Speak" button. You should hear the text being spoken by the eSpeak formant synth.
@@ -34,8 +35,8 @@ All good? Congrats, it worked! Optionally, there are voice variant settings unde
 
 OPTIONALLY for MBROLA: Now that the eSpeak backend is primed, 
 Select "Compile, Compile mbrola phonemes list...". 
-Choose ptbrxex.txt. Now do the same for ptbr4 
-Now select "Voice, Select voice...", then choose /mb/mb-br4-xex.
+Choose ptbrxex.txt. Now do the same for ptbr4xex.txt.
+Now select "Voice, Select voice...", then choose /mb/mb-br4-xex or /mb/mb-br1-xex.
 Now you can test the voice. Did it work? I hope so. 
 
 I threw all this together haphazardly, and I'm still making small optimizations.
